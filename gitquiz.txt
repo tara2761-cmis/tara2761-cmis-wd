@@ -1,0 +1,6 @@
+go to email, open terminal and copy and paste the email I sent to myself to git clone.
+create a text file typing in terminal: gedit and then file name
+edit text file by typing in whatever you need to in the white tab that opens up
+save text file by saving the file and then on terminal in your repository do:-git add, -git commit -m "Add description", -git push
+after git push you will have to login to github on terminal
+the file you created is now saved on github
