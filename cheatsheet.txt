@@ -3,3 +3,15 @@ cd
 cat
 gedit
 python
+
+to submit anything to mr.kieffer:
+-type sftp tara2761@cmis-hsteacher
+
+to create page: 
+go into your repository
+-type gedit and create file name
+-copy and paste from cheatsheet 
+-edit title ecc.
+-copy and paste python -m SimpleHTTPServer
+-search for page
+
