@@ -1,32 +1,41 @@
 p {
-       color: red;
+       color:75189198;
        background-color:blue;
+       margin-top: 100px
+       border-style: double
 }
 
 main p{
-       color:green;
+       color:#000000;
        background-color:yellow;
+       margin-top: 70px
+       border-style: double
 }
 
 footer p{
-         color:black;
+         color:#FFFFFF;
          background-color:white;
+         margin-top: 70px
+         border-style: double
 
 }
 
 nav p {
-       color:green;
+       color:#00FFFF;
        background-color:yellow;
+       margin-top: 70px
+       border-style: double
 
 }
 
 header{
-       background-color:purple;
-
+       background-color:#000000;
+       margin-top: 70px
+       border-style: double
 }
 
 h1,h2, p{
-       color:red;
+       color:#000000;
 }
 
    
