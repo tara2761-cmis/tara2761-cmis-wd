@@ -1,45 +1,21 @@
-1-text color
-2-background color
-3-margin-top
-4-border-style
-5-text-align
-6-font-style
-7-padding-top
-8-height
-9-border
-10-outline-color
-11-outline-style
-12-font-style
-13-width
-14-text-align
-15-padding-right
-16-margin-right
-17-CENTER
-18-(margin)
-19-(width)
-20-(border)
-21-(padding)
+
 
 p {
-       color:#000000;
-       background-color:blue;
+       color:black;
+       background-color:white;
        margin-top: 100px;
-       border-style: double;
+       border-style: none;
        text-align: center;
        font-style: normal;   
-       padding-top: 50px;
        height: 100px;
-       border: 1px solid black;
-       outline-color: black; 
-       outline-style: double; 
        
 }
 
 main p{
-       color:#000000;
-       background-color:yellow;
+       color:black;
+       background-color:white;
        margin-top: 70px;
-       border-style: double;
+       border-style: dotted;
        text-align: center;
        font-style: italic;
        width: 20%;
@@ -47,10 +23,10 @@ main p{
 }
 
 footer p{
-         color:#FFFFFF;
-         background-color:white;
+         color:white;
+         background-color:blue;
          margin-top: 70px;
-         border-style: double;
+         border-style: none;
          text-align: center;
          font-style: italic;
          padding-right: 50px;
@@ -59,17 +35,26 @@ footer p{
 }
 
 nav p {
-       color:#00FFFF;
-       background-color:yellow;
+       color:black;
+       background-color:white;
        margin-top: 70px;
-       border-style: double;
+       border-style: none;
        text-align: center;
-       font-style: oblique; 
+       font-style: italic; 
        padding-top: 50px;
 
 }
 
 header{
+
+       color:yellow;
+       background-color:blue;
+       margin-top: 100px;
+       border-style: none;
+       text-align: center;
+       font-style: normal;   
+       height: 100px;
+       
        background-color:#000000;
        margin-top: 70px;
        border-style: double;
