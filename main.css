@@ -1,11 +1,9 @@
 
-
 p {
        color:black;
-       background-color:white;
+       background-color: #9276B0;
        margin-top: 100px;
-       border-style: none;
-       text-align: center;
+       text-align: left;
        font-style: normal;   
        height: 100px;
        
@@ -45,12 +43,13 @@ nav p {
 
 }
 
-header{
+header {
 
-       color:yellow;
-       background-color:blue;
-       margin-top: 100px;
-       border-style: none;
+       color:white;
+       background-color: #260F40;
+       padding-top: 50px;
+       margin: 100px 150px 100px 80px;
+       border-style: double;
        text-align: center;
        font-style: normal;   
        height: 100px;
@@ -60,6 +59,23 @@ header{
 
 h1,h2, p{
        color:#000000;
+       font-family: "Times New Roman", Times, serif;
+}
+
+article {
+
+          color: #0B0115;
+          background-color: #9276B0;
+          padding: 50px 30px 50px 80px;
+}
+
+div {
+     
+      width: 300px;
+      border: 25px white;
+      padding: 25px;
+      margin: 25px;
+
 }
 
 .center {
@@ -68,6 +84,8 @@ h1,h2, p{
          width: 50%;
          border: 3px solid black;
          padding: 10px;
+
+
    
         
 
