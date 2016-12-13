@@ -1,28 +1,9 @@
 
-p {
-       color:black;
-       background-color: #9276B0;
-       margin-top: 100px;
-       text-align: left;
-       font-style: normal;   
-       height: 100px;
-       
-}
-
-main p{
-       color:black;
-       background-color:white;
-       margin-top: 70px;
-       border-style: dotted;
-       text-align: center;
-       font-style: italic;
-       width: 20%;
-       
 }
 
 footer p{
-         color:white;
-         background-color:blue;
+         color:black;
+         background-color:white;
          margin-top: 70px;
          border-style: none;
          text-align: center;
@@ -34,7 +15,7 @@ footer p{
 
 nav p {
        color:black;
-       background-color:white;
+       background-color:#f7e6ff;
        margin-top: 70px;
        border-style: none;
        text-align: center;
@@ -70,13 +51,17 @@ article {
 }
 
 div {
-     
+      height:100px;
       width: 300px;
       border: 25px white;
       padding: 25px;
       margin: 25px;
-
+f7e6ff
 }
+
+body {
+
+      background-color:#f7e6ff;
 
 .center {
 
@@ -84,8 +69,3 @@ div {
          width: 50%;
          border: 3px solid black;
          padding: 10px;
-
-
-   
-        
-
